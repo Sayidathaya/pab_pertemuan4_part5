@@ -38,6 +38,12 @@ Berikut fitur yang tersedia dalam aplikasi ini:
 
 ## TAMPILAN
 
+<img width="957" height="722" alt="Image" src="https://github.com/user-attachments/assets/7c33e01a-c44b-4d8d-a43d-06301abf27e1" />
+
+<img width="960" height="902" alt="Image" src="https://github.com/user-attachments/assets/85e768d0-2018-40dc-bba4-69ebc6099653" />
+
+<img width="957" height="838" alt="Image" src="https://github.com/user-attachments/assets/8ca80bbb-fdb3-464d-8cdc-479514d9ebf2" />
+
 ---
 
 ## 📁 Struktur Folder Project
